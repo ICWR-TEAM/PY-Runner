@@ -3,5 +3,5 @@ Python Runner
 ###
 CMD
 ```batch
-"PY Runner (x64).exe" --exec file.py
+pyrunner-x64-portable.exe --exec file.py
 ```
